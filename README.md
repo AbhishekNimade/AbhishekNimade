@@ -1,7 +1,7 @@
 [![MasterHead](githubb.png)](https://abhisheknimade.netlify.app)
 <h1 align="center">Hi 👋, I'm Abhishek Nimade</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
-<img align="right" alt="coding" width="50%" src="men.png" style="border-radius: 50px;">
+<img align="right" alt="coding" width="50%" src="men2.png" style="border-radius: 50px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekNimade&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekNimade" /> </p>
 
