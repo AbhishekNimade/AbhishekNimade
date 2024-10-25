@@ -1,4 +1,4 @@
-[![MasterHead](githubb.png)](https://abhisheknimade.netlify.app)
+[![MasterHead](github.png)](https://abhisheknimade.netlify.app)
 <h1 align="center">Hi 👋, I'm Abhishek Nimade</h1>
 <h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
 <img align="right" alt="coding" width="50%" src="men.png" style="border-radius: 50px;">
